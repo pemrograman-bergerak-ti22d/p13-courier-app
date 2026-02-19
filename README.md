@@ -13,10 +13,10 @@ Interaktif.
 
 ## 👥 Anggota Kelompok
 
-1.  **Muhammad Faiz** (220511139) 
-2	**Falashifa Gading**	(220511029)
-3	**Rahma Syifatun Nabilah**	(221511013)
-4	**Ibnu Risfai**	(220511002) 
+1.  **Muhammad Faiz** (220511139)\ 
+2.	**Falashifa Gading**	(220511029)\
+3.	**Rahma Syifatun Nabilah**	(221511013)\
+4.	**Ibnu Risfai**	(220511002) 
 
 ------------------------------------------------------------------------
 
